@@ -1,0 +1,28 @@
+Connected to server. Waiting for ID...
+
+You are [Client 1] in [#lobby]
+[#lobby][Client 1]-> Client 0 wants to give you a message. Type /accept to view or /decline to ignore
+
+[#lobby][Client 1]-> [#lobby][Client 1]-> [21:49:52] [PM from Client 0]: hello secret
+
+[#lobby][Client 1]-> Client 0 wants to give you a message. Type /accept to view or /decline to ignore
+
+[#lobby][Client 1]-> [#lobby][Client 1]-> Message from Client 0 declined
+
+[#lobby][Client 1]-> [#lobby][Client 1]-> No pending messages
+
+[#lobby][Client 1]-> [#lobby][Client 1]-> Joined #gaming
+
+[#gaming][Client 1]-> [21:49:53] Client 1: Client 1 joined the room
+
+[#gaming][Client 1]-> [21:49:55] Client 2: Client 2 joined the room
+
+[#gaming][Client 1]-> [#gaming][Client 1]-> Message pending. Waiting for Client 2 to respond...
+
+[#gaming][Client 1]-> Client 2 accepted your message
+
+[#gaming][Client 1]-> [#gaming][Client 1]-> Message pending. Waiting for Client 2 to respond...
+
+[#gaming][Client 1]-> Client 2 left the room
+
+[#gaming][Client 1]-> 

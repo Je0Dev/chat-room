@@ -1,0 +1,22 @@
+Server listening on port 8080
+[Client 0] connected (joined #lobby)
+[Client 1] connected (joined #lobby)
+[Client 2] connected (joined #lobby)
+[21:49:51] [Client 0] [#lobby] /msg 1 hello secret
+[21:49:52] [Client 1] [#lobby] /accept
+[21:49:52] [Client 0] [#lobby] /msg 1 second try
+[21:49:53] [Client 1] [#lobby] /decline
+[21:49:53] [Client 1] [#lobby] /accept
+[21:49:53] [Client 1] [#lobby] /join gaming
+[21:49:54] [Client 0] [#lobby] /msg 1 are you there?
+[21:49:54] [Client 0] [#lobby] /msg 99 ghost
+[21:49:55] [Client 2] [#lobby] /join gaming
+[21:49:55] [Client 1] [#gaming] /msg 2 gaming pm
+[21:49:55] [Client 2] [#gaming] /accept
+[21:49:56] [Client 1] [#gaming] /msg 2 bye message
+[Client 2] disconnected
+[Client 1] disconnected
+[Client 0] disconnected
+
+Shutting down server...
+Server stopped.

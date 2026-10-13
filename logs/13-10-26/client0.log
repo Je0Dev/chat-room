@@ -1,0 +1,16 @@
+Connected to server. Waiting for ID...
+
+You are [Client 0] in [#lobby]
+[#lobby][Client 0]-> [#lobby][Client 0]-> Message pending. Waiting for Client 1 to respond...
+
+[#lobby][Client 0]-> Client 1 accepted your message
+
+[#lobby][Client 0]-> [#lobby][Client 0]-> Message pending. Waiting for Client 1 to respond...
+
+[#lobby][Client 0]-> Client 1 declined your message
+
+[#lobby][Client 0]-> [#lobby][Client 0]-> You cannot send to this client. You have to join this room first.
+
+[#lobby][Client 0]-> [#lobby][Client 0]-> Client 99 not found
+
+[#lobby][Client 0]-> 
